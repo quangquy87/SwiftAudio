@@ -14,10 +14,10 @@ Pod::Spec.new do |s|
 SwiftAudio is an audio player written in Swift, making it simpler to work with audio playback from streams and files.
 DESC
 
-  s.homepage         = 'https://github.com/jorgenhenrichsen/SwiftAudio'
+  s.homepage         = 'https://github.com/quangquy87/SwiftAudio'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'Jørgen Henrichsen' => 'jh.henrichs@gmail.com' }
-  s.source           = { :git => 'https://github.com/jorgenhenrichsen/SwiftAudio.git', :tag => s.version.to_s }
+  s.author           = { 'quangquy87' => 'quangquy87@gmail.com' }
+  s.source           = { :git => 'https://github.com/quangquy87/SwiftAudio.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '9.0'
   s.swift_version = '5.0'
